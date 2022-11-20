@@ -1,0 +1,38 @@
+body {
+    min-height: 2000px;
+}
+
+.jumbotron {
+    padding-top: 7rem;
+    background-color: #faf1ff;
+}
+
+#projects {
+    background-color: #faf1ff;
+}
+
+section {
+    padding-top: 4rem;
+}
+
+.image {
+    width: 70%;
+}
+
+.title {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.mineco {
+    background-color: #c781fd;
+    color: rgb(255, 255, 255);
+}
+
+.mineco:hover {
+    background: #efdaff;
+    color: rgb(190, 3, 211);
+}
